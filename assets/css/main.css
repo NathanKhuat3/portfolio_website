@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.post-image {
+	width: 1000px;
+	height: 400px;
+}
+
 ol, ul {
 	list-style: none;
 }
